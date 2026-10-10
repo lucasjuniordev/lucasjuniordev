@@ -1,57 +1,31 @@
-# Olá, eu sou o Lucas Junior! 👋
+<div align="center">
 
-## 🚀 Sobre mim
+# Lucas Junior
 
-🎓 **Computer Science Student at the Federal Institute of Brasília**
+**Desenvolvedor Full Stack · Fundador do AdoreMore**
 
-💻 **Front-End Developer**
+Construo produtos digitais web e mobile, de interfaces e APIs a sistemas SaaS.
 
-**Technologies:**
+[Portfólio](https://www.lucasjrdev.com/) · [AdoreMore](https://adoremore.com.br/) · [LinkedIn](https://www.linkedin.com/in/lucas-junior-dev) · [GitHub](https://github.com/lucasjuniordev)
 
-| **HTML**       | **CSS**        | **JavaScript** | **TypeScript** | **Angular**    |
-|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
+</div>
 
-## 📚 Skills
+## Sobre
 
-- **Quick Learner**
-- **Computer Programming**
-- **Mobile Programming**
-- **Java and C**
-- **Databases**
-- **Networks**
-- **Experience with Adobe Suite**
-- **Experience with Microsoft Office**
+Atuo com desenvolvimento full stack e arquitetura de software. Gosto de transformar problemas reais em ferramentas claras, úteis e simples de usar — de produtos SaaS a aplicações de gestão e simuladores.
 
-## 👩‍💻 Trabalho atualmente como Estagiário na Record Brasília
+## Em destaque
 
-## 🧠 Estou aprendendo Angular, Laravel e JS
+**[AdoreMore](https://adoremore.com.br/)** — produto para igrejas e equipes de ministério. Reúne agenda, escalas, equipe e repertório para deixar a rotina de quem serve mais organizada. O site apresenta o produto e permite solicitar uma demonstração.
 
-## 👯‍♀️ Procuro colaborar em...
+Outros projetos autorais incluem um MVP de gestão multi-hotel, uma plataforma de reservas para restaurantes, um simulador de financiamento Price/SAC e ferramentas de organização e check-in. Veja mais no [meu portfólio](https://www.lucasjrdev.com/).
 
-- Projetos de **desenvolvimento front-end** com foco em **design responsivo** e **experiência do usuário**.
-- Iniciativas de **desenvolvimento web** utilizando **Angular** e **TypeScript**.
-- Projetos que envolvam **integração de APIs** e **melhoria de performance** em aplicações web.
+## Tecnologias
 
-## 🛠 Habilidades
+React · TypeScript · Python · PostgreSQL · Angular · React Native · Next.js · Flask
 
-- **JavaScript**
-- **HTML5**
-- **CSS3**
-- **TypeScript**
-- **Angular**
-- **Node.js** 
-- **Git** (controle de versão)
-- **Adobe Suite** (Photoshop, Illustrator, etc.)
-- **Microsoft Office** (Word, Excel, PowerPoint)
-- **Programação em Java e C**
-- **Bancos de Dados** (MySQL, PostgreSQL)
-- **Redes e Protocolos** 
-- **Desenvolvimento Mobile** 
-- **Metodologias Ágeis** (Scrum, Kanban)
+## Contato
 
-## 📫 Como entrar em contato comigo
-
-- **Email:** [lucasjrfranca07@gmail.com](mailto:lucasjrfranca07@gmail.com)
-- **LinkedIn:** [Lucas Junior no LinkedIn](https://www.linkedin.com/in/lucas-junior-dev)
-- **GitHub:** [Lucas Junior no GitHub](https://github.com/lucasjuniordev)
-
+- [Portfólio](https://www.lucasjrdev.com/)
+- [LinkedIn](https://www.linkedin.com/in/lucas-junior-dev)
+- [AdoreMore](https://adoremore.com.br/)
