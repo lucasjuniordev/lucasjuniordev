@@ -14,18 +14,22 @@ Desenvolvimento de produtos web e mobile, APIs e soluções SaaS.
 
 Sou desenvolvedor full stack e atuo também com arquitetura de software. Desenvolvo produtos digitais que transformam necessidades reais em ferramentas práticas, com atenção à clareza, à utilidade e à experiência de uso.
 
-## Produto em destaque
+## Projetos em destaque
 
-### [AdoreMore](https://adoremore.com.br/)
+### Produtos autorais
 
-Produto digital para igrejas e equipes de ministério. O AdoreMore reúne agenda, escalas, equipe e repertório para apoiar a organização das atividades. A página do produto permite solicitar uma demonstração.
+- **[AdoreMore](https://adoremore.com.br/):** produto para igrejas e equipes de ministério, com agenda, escalas, equipe e repertório.
+- **Gestão hoteleira:** plataforma SaaS para múltiplos hotéis.
+- **Gestão de restaurantes:** plataforma SaaS para restaurantes.
+- **Pérola Noivas:** loja virtual de vestidos de noiva e acessórios.
 
-## Projetos
+### Outros projetos de destaque
 
-- **Gestão hoteleira:** MVP de uma plataforma SaaS para múltiplos hotéis.
-- **Reservas para restaurantes:** plataforma voltada à gestão de reservas em múltiplos restaurantes.
-- **Simulação financeira:** comparação de financiamentos pelos sistemas Price e SAC.
-- **Organização de eventos:** ferramentas para listas de convidados, credenciamento e check-in.
+- **Elections Maps**
+- **Fleet**
+- **Ads da Record**
+- **Ibope Metrics da Record**
+- **MJC Player**
 
 Conheça os demais trabalhos no [portfólio](https://www.lucasjrdev.com/).
 
