@@ -2,23 +2,32 @@
 
 # Lucas Junior
 
-**Desenvolvedor Full Stack · Fundador do AdoreMore**
+**Desenvolvedor de software · Fundador do AdoreMore**
 
-Construo produtos digitais web e mobile, de interfaces e APIs a sistemas SaaS.
+Desenvolvimento de produtos web e mobile, APIs e soluções SaaS.
 
-[Portfólio](https://www.lucasjrdev.com/) · [AdoreMore](https://adoremore.com.br/) · [LinkedIn](https://www.linkedin.com/in/lucas-junior-dev) · [GitHub](https://github.com/lucasjuniordev)
+[Portfólio](https://www.lucasjrdev.com/) · [AdoreMore](https://adoremore.com.br/) · [LinkedIn](https://www.linkedin.com/in/lucas-junior-dev)
 
 </div>
 
-## Sobre
+## Perfil
 
-Atuo com desenvolvimento full stack e arquitetura de software. Gosto de transformar problemas reais em ferramentas claras, úteis e simples de usar — de produtos SaaS a aplicações de gestão e simuladores.
+Sou desenvolvedor full stack e atuo também com arquitetura de software. Desenvolvo produtos digitais que transformam necessidades reais em ferramentas práticas, com atenção à clareza, à utilidade e à experiência de uso.
 
-## Em destaque
+## Produto em destaque
 
-**[AdoreMore](https://adoremore.com.br/)** — produto para igrejas e equipes de ministério. Reúne agenda, escalas, equipe e repertório para deixar a rotina de quem serve mais organizada. O site apresenta o produto e permite solicitar uma demonstração.
+### [AdoreMore](https://adoremore.com.br/)
 
-Outros projetos autorais incluem um MVP de gestão multi-hotel, uma plataforma de reservas para restaurantes, um simulador de financiamento Price/SAC e ferramentas de organização e check-in. Veja mais no [meu portfólio](https://www.lucasjrdev.com/).
+Produto digital para igrejas e equipes de ministério. O AdoreMore reúne agenda, escalas, equipe e repertório para apoiar a organização das atividades. A página do produto permite solicitar uma demonstração.
+
+## Projetos
+
+- **Gestão hoteleira:** MVP de uma plataforma SaaS para múltiplos hotéis.
+- **Reservas para restaurantes:** plataforma voltada à gestão de reservas em múltiplos restaurantes.
+- **Simulação financeira:** comparação de financiamentos pelos sistemas Price e SAC.
+- **Organização de eventos:** ferramentas para listas de convidados, credenciamento e check-in.
+
+Conheça os demais trabalhos no [portfólio](https://www.lucasjrdev.com/).
 
 ## Tecnologias
 
@@ -26,6 +35,4 @@ React · TypeScript · Python · PostgreSQL · Angular · React Native · Next.j
 
 ## Contato
 
-- [Portfólio](https://www.lucasjrdev.com/)
-- [LinkedIn](https://www.linkedin.com/in/lucas-junior-dev)
-- [AdoreMore](https://adoremore.com.br/)
+[LinkedIn](https://www.linkedin.com/in/lucas-junior-dev) · [Portfólio](https://www.lucasjrdev.com/) · [AdoreMore](https://adoremore.com.br/)
